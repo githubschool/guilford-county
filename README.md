@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub 4 Developers
 
 - Class Date: January 29 - February 1, 2019
 - Facilitator: @a-a-ron
